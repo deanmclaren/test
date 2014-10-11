@@ -1,0 +1,54 @@
+h1 {
+  color: red;
+}
+
+ul li {
+  list-style-type: square;
+}
+
+.special-input {
+  border-radius: 3px;
+}
+
+#message {
+
+}
+
+label {
+  display: block;
+}
+
+label.selector {
+  display: inline;
+}
+
+.a1, .a2, .a3 {
+  width: 100px;
+  height: 100px;
+}
+
+.a1 > .a2 {
+  background-color: red;
+}
+
+.box-model {
+  width: 200px;
+  height: 200px;
+  background-color: yellow;
+  border: 3px dashed;
+}
+
+
+table.contact-listing {
+  width: 100%;
+}
+
+table.contact-listing, .contact-listing td, .contact-listing th {
+  border: 1px solid black;
+}
+
+.contact-listing th {
+  text-align: left; 
+}
+
+
